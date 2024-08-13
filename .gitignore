@@ -2,3 +2,4 @@
 examples/stock_data/trex_us_d.csv
 *.html
 examples/stock_data/*.csv
+examples/evcxr_output.txt

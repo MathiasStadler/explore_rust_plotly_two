@@ -91,7 +91,8 @@ fn time_series_with_range_slider() {
     plot.set_layout(layout_sma10);
 
     //plot.show();
-    plot.write_html("out_1.html");
+    //plot.write_html("out_1.html");
+    plot.notebook_display();
     
 }
 
