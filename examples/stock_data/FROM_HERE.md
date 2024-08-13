@@ -1,0 +1,1 @@
+[get stock data e.g. TREX.US ](https://stooq.com/q/d/l/?s=TREX.US&i=d&d1=19900101&d2=20241231)

@@ -1,0 +1,4 @@
+/target
+examples/stock_data/trex_us_d.csv
+*.html
+examples/stock_data/*.csv
